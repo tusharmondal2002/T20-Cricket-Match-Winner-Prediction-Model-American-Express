@@ -1,0 +1,3 @@
+- Developed a T20 match prediction model using ensemble methods like CatBoost, GBM, LGBM, and XGBoost, achieving 72.05% accuracy
+- Engineered 43 additional features from scorecard data, integrating metrics such as player ratios, team averages, and ground statistics
+- Employed pre-processing techniques & hyperparameter tuning with GridSearchCV implementing a voting mechanism for predictions
